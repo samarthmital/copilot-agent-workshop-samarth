@@ -1,0 +1,81 @@
+opportunity_id,account_name,amount_usd,stage,close_date,created_date,owner,region,product,industry
+OPP-10000,Tyrell Corp,143600,Closed Won,2026-05-09,2026-04-06,E. Larsson,NAMER,Enterprise,Energy
+OPP-10001,Cyberdyne Systems,211300,Discovery,2026-08-01,2026-01-11,K. O'Brien,NAMER,Enterprise,Energy
+OPP-10002,Cogswell Cogs,283400,Negotiation,2026-08-23,2026-03-20,L. Petrov,APAC,Enterprise,Manufacturing
+OPP-10003,Sunnydale Schools,47000,Qualification,2026-06-02,2025-10-24,S. Müller,NAMER,Team,Technology
+OPP-10004,Quahog Cable,240900,Closed Lost,2025-12-06,2025-10-30,L. Petrov,NAMER,Enterprise,Retail
+OPP-10005,Wonka Industries,45600,Closed Won,2026-03-10,2025-11-17,M. Tanaka,EMEA,Pro,Education
+OPP-10006,Umbrella Co,154100,Closed Lost,2026-01-26,2025-11-24,E. Larsson,NAMER,Enterprise,Financial Services
+OPP-10007,Goliath National,181100,Closed Lost,2026-05-05,2026-03-03,E. Larsson,APAC,Enterprise,Energy
+OPP-10008,Monk's Café,11600,Discovery,2026-04-06,2026-02-19,L. Petrov,APAC,Pro,Public Sector
+OPP-10009,Central Perk,80600,Negotiation,2026-07-28,2026-03-24,J. Rodriguez,NAMER,Team,Manufacturing
+OPP-10010,Goliath National,81500,Qualification,2026-08-22,2025-12-19,K. O'Brien,NAMER,Team,Healthcare
+OPP-10011,Acme Corp,128400,Negotiation,2026-07-16,2026-01-20,T. Nguyen,APAC,Enterprise,Financial Services
+OPP-10012,Mutiny Networks,84300,Negotiation,2026-08-08,2025-10-18,M. Tanaka,NAMER,Team,Energy
+OPP-10013,Sunnydale Schools,53000,Closed Lost,2026-04-17,2025-12-21,B. Yamamoto,NAMER,Team,Manufacturing
+OPP-10014,Pendant Publishing,300100,Closed Won,2026-05-02,2026-03-20,H. Patel,EMEA,Enterprise,Retail
+OPP-10015,Umbrella Co,21800,Discovery,2026-04-19,2026-04-24,L. Petrov,EMEA,Pro,Education
+OPP-10016,Cheers Bar Group,226200,Discovery,2026-04-08,2025-10-02,B. Yamamoto,NAMER,Enterprise,Education
+OPP-10017,Oscorp,59200,Qualification,2026-08-22,2026-03-05,T. Nguyen,NAMER,Team,Public Sector
+OPP-10018,Sterling Cooper,67000,Qualification,2026-05-26,2026-03-29,H. Patel,APAC,Team,Education
+OPP-10019,Sunnydale Schools,61700,Discovery,2026-05-10,2026-03-01,B. Yamamoto,NAMER,Team,Technology
+OPP-10020,Los Pollitos,250600,Discovery,2026-08-29,2026-02-25,J. Rodriguez,NAMER,Enterprise,Education
+OPP-10021,Multivac Systems,193500,Qualification,2026-08-08,2025-11-07,C. Dubois,NAMER,Enterprise,Technology
+OPP-10022,Globex,75200,Discovery,2026-07-11,2025-12-12,K. O'Brien,NAMER,Team,Retail
+OPP-10023,Bluth Company,311600,Qualification,2026-07-26,2026-04-16,H. Patel,NAMER,Enterprise,Financial Services
+OPP-10024,Stark Industries,23500,Discovery,2026-09-10,2026-03-05,C. Dubois,LATAM,Pro,Education
+OPP-10025,Soylent Corp,183700,Closed Lost,2026-04-29,2026-01-10,C. Dubois,NAMER,Enterprise,Manufacturing
+OPP-10026,Bishop Software,45200,Discovery,2026-05-25,2026-04-13,A. Singh,EMEA,Team,Energy
+OPP-10027,Acme Corp,98200,Discovery,2026-08-02,2025-09-23,H. Patel,EMEA,Team,Financial Services
+OPP-10028,Hooli,148500,Closed Lost,2025-12-31,2025-11-21,K. O'Brien,EMEA,Enterprise,Technology
+OPP-10029,Stark Solutions,55200,Qualification,2026-06-03,2026-02-26,E. Larsson,EMEA,Team,Media
+OPP-10030,Big Kahuna Burger,31500,Discovery,2026-07-21,2026-04-10,T. Nguyen,EMEA,Pro,Financial Services
+OPP-10031,Buy n Large,28400,Discovery,2026-08-16,2026-01-06,S. Müller,NAMER,Team,Healthcare
+OPP-10032,Big Kahuna Burger,24800,Discovery,2026-05-04,2025-11-10,H. Patel,EMEA,Pro,Manufacturing
+OPP-10033,Buy n Large,222800,Qualification,2026-08-13,2025-10-27,T. Nguyen,NAMER,Enterprise,Retail
+OPP-10034,Buy n Large,385000,Discovery,2026-05-18,2025-09-28,E. Larsson,EMEA,Enterprise,Public Sector
+OPP-10035,Los Pollitos,40800,Closed Won,2025-12-28,2025-12-06,H. Patel,APAC,Team,Public Sector
+OPP-10036,Tyrell Corp,24600,Proposal,2026-05-23,2026-03-22,L. Petrov,NAMER,Pro,Energy
+OPP-10037,Cheers Bar Group,25900,Discovery,2026-05-31,2025-11-05,L. Petrov,NAMER,Pro,Retail
+OPP-10038,Dillon High,15000,Negotiation,2026-08-28,2025-09-19,J. Rodriguez,APAC,Pro,Retail
+OPP-10039,Pendant Publishing,266800,Qualification,2026-08-15,2026-02-19,R. Adebayo,APAC,Enterprise,Retail
+OPP-10040,Massive Dynamic,203000,Discovery,2026-09-06,2026-02-09,C. Dubois,NAMER,Enterprise,Media
+OPP-10041,Rekall Inc,49500,Qualification,2026-07-08,2026-01-29,M. Tanaka,NAMER,Team,Manufacturing
+OPP-10042,Goliath National,300500,Qualification,2026-04-15,2026-04-19,T. Nguyen,NAMER,Enterprise,Manufacturing
+OPP-10043,Pawnee Parks,62800,Proposal,2026-04-15,2026-02-22,R. Adebayo,APAC,Team,Retail
+OPP-10044,Aperture Labs,25500,Closed Lost,2026-04-10,2026-01-25,B. Yamamoto,EMEA,Pro,Retail
+OPP-10045,Hooli,19200,Negotiation,2026-07-09,2025-12-20,M. Tanaka,LATAM,Pro,Manufacturing
+OPP-10046,Monk's Café,150600,Qualification,2026-07-08,2025-11-22,R. Adebayo,EMEA,Enterprise,Healthcare
+OPP-10047,Teldar Paper,37500,Closed Won,2026-03-16,2025-12-30,T. Nguyen,APAC,Team,Media
+OPP-10048,Wernham Hogg,93500,Closed Lost,2025-12-22,2025-11-11,B. Yamamoto,EMEA,Team,Healthcare
+OPP-10049,Krusty Krab,56900,Closed Won,2026-05-12,2026-03-02,K. O'Brien,EMEA,Team,Manufacturing
+OPP-10050,Sterling Cooper,456500,Negotiation,2026-07-20,2025-10-27,M. Tanaka,NAMER,Enterprise,Retail
+OPP-10051,Tessier-Ashpool,24400,Closed Won,2026-05-06,2026-03-14,M. Tanaka,NAMER,Team,Retail
+OPP-10052,Skynet Cloud,293600,Proposal,2026-08-22,2025-12-06,C. Dubois,NAMER,Enterprise,Energy
+OPP-10053,Wernham Hogg,70400,Closed Won,2026-05-08,2026-03-19,H. Patel,EMEA,Team,Education
+OPP-10054,Reynholm Industries,243000,Closed Won,2026-02-08,2025-11-19,H. Patel,NAMER,Enterprise,Education
+OPP-10055,Cogswell Cogs,48800,Qualification,2026-07-06,2026-03-24,H. Patel,EMEA,Team,Financial Services
+OPP-10056,Black Mesa,187800,Proposal,2026-07-06,2026-03-07,R. Adebayo,APAC,Enterprise,Technology
+OPP-10057,Klimpy's Diner,301400,Proposal,2026-07-06,2026-01-28,C. Dubois,LATAM,Enterprise,Technology
+OPP-10058,Stark Solutions,94000,Closed Lost,2026-05-04,2026-02-18,C. Dubois,EMEA,Team,Retail
+OPP-10059,Galt Industries,67500,Qualification,2026-07-25,2026-03-27,J. Rodriguez,NAMER,Team,Education
+OPP-10060,Initech,66400,Discovery,2026-05-24,2025-09-19,R. Adebayo,LATAM,Team,Healthcare
+OPP-10061,Buy n Large,168400,Closed Won,2026-02-22,2025-10-18,R. Adebayo,NAMER,Enterprise,Manufacturing
+OPP-10062,BiffCo,71900,Discovery,2026-04-01,2025-11-13,L. Petrov,APAC,Team,Retail
+OPP-10063,Wonka Industries,11000,Discovery,2026-06-01,2026-03-27,J. Rodriguez,APAC,Pro,Retail
+OPP-10064,Duke & Duke,40400,Qualification,2026-06-26,2025-10-11,T. Nguyen,LATAM,Team,Financial Services
+OPP-10065,Massive Dynamic,22900,Closed Lost,2026-01-05,2025-10-27,R. Adebayo,EMEA,Pro,Public Sector
+OPP-10066,Pied Piper,14900,Negotiation,2026-08-26,2025-10-07,S. Müller,EMEA,Pro,Financial Services
+OPP-10067,Wonka Industries,47700,Proposal,2026-07-19,2025-09-23,L. Petrov,NAMER,Team,Technology
+OPP-10068,Massive Dynamic,101400,Proposal,2026-08-09,2026-03-14,J. Rodriguez,EMEA,Team,Public Sector
+OPP-10069,Spacely Sprockets,27600,Proposal,2026-09-01,2026-02-05,B. Yamamoto,EMEA,Pro,Manufacturing
+OPP-10070,Vandelay Industries,72000,Proposal,2026-04-22,2026-02-01,E. Larsson,NAMER,Team,Public Sector
+OPP-10071,Bluth Company,50600,Qualification,2026-04-30,2025-12-07,T. Nguyen,EMEA,Team,Manufacturing
+OPP-10072,Dunder Mifflin,59500,Discovery,2026-05-29,2026-01-04,C. Dubois,NAMER,Team,Education
+OPP-10073,Planet Express,43600,Proposal,2026-08-21,2025-12-14,C. Dubois,NAMER,Team,Energy
+OPP-10074,Teldar Paper,41300,Qualification,2026-08-23,2026-03-29,M. Tanaka,NAMER,Team,Media
+OPP-10075,Bluth Company,41700,Proposal,2026-06-24,2026-04-03,H. Patel,NAMER,Team,Manufacturing
+OPP-10076,Rekall Inc,69300,Discovery,2026-06-03,2025-12-08,A. Singh,NAMER,Team,Technology
+OPP-10077,Galt Industries,158200,Proposal,2026-09-05,2026-04-15,L. Petrov,NAMER,Enterprise,Healthcare
+OPP-10078,Rayburn Logistics,208000,Proposal,2026-07-29,2026-03-21,E. Larsson,NAMER,Enterprise,Technology
+OPP-10079,Big Kahuna Burger,223900,Qualification,2026-07-14,2025-10-12,T. Nguyen,NAMER,Enterprise,Retail
